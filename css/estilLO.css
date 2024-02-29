@@ -1,0 +1,109 @@
+*
+{ margin: 10px;}
+#principal
+{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 720px;
+    background-color: yellow;
+}
+#sombreroplomo
+{
+    margin: 260px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+}
+#cabeza
+{ 
+    margin: auto;
+    border-radius: 100px;
+    border-color: black;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(237, 198, 167);
+}
+#ojo1
+{
+    margin: auto;
+    margin-top: 30px;
+    margin-right: 40px;
+    float: right;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#ojo2
+{
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 40px;
+    float: left;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#nariz
+{
+    margin: auto;
+    margin-top: 70px;
+    margin-left: 10px;
+    float: inline-end; 
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+#boca
+{
+    margin: auto;
+    margin-top: 55px;
+    margin-left: 20px;
+    float: inline-end; 
+    width: 20px;
+    height: 20px;
+    background-color: rgb(252, 133, 133);
+}
+#torso
+{
+    margin: auto;
+    border-radius: 150px;
+    width: 190px;
+    height: 190px;
+    background-color: rgb(222, 232, 147);
+}
+#brazo1
+{
+    margin: 0px;
+    margin-top: 85px;
+    margin-left: 15px;
+    float: inline-end;
+    width: 350px;
+    height: 15px;
+    background-color: chocolate;
+}
+#brazo2
+{
+    margin: 0px;
+    margin-top: 10px;
+    margin-right: 15px;
+    float: inline-end;
+    width: 350px;
+    height: 15px;
+    background-color: chocolate;
+}
+#base
+{
+    margin: auto;
+    border-radius: 150px;
+    width: 240px;
+    height: 240px;
+    background-color:  burlywood;
+}
